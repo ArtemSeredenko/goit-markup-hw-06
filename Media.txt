@@ -1,0 +1,5 @@
+@media screen and (min-width: 768px) {} -tablet
+@media screen and (min-width: 1158px) {} -desctop
+
+Добавляем тег  viewport
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
